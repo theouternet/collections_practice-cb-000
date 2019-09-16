@@ -20,6 +20,7 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
+  kesha = []
   array.each do |string|
-    
+    array[]
 end
