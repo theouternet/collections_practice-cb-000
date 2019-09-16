@@ -21,6 +21,9 @@ end
 
 def find_a(array)
   
+  
+  
+end
 
 def kesha_maker(array)
   kesha = []
