@@ -21,12 +21,8 @@ end
 
 def find_a(array)
   
-   i = 0
-  while i < array.length |string|
-    return array[i] if yield(string[0])
-    i = i + 1
-  end
-  
+array.select do |string|
+  string
 end
 
 def kesha_maker(array)
