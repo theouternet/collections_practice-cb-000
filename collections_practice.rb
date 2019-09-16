@@ -19,6 +19,9 @@ def reverse_array(array)
   array.reverse
 end
 
+def find_a(array)
+  
+
 def kesha_maker(array)
   kesha = []
   array.each do |string|
