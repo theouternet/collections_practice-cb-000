@@ -22,5 +22,6 @@ end
 def kesha_maker(array)
   kesha = []
   array.each do |string|
-    array[]
+    string[2] = "$"
+    kesha<<
 end
