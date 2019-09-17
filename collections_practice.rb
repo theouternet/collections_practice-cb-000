@@ -25,7 +25,7 @@ end
 
 def sum_array(array)
   
-  
+  array.sum
   
 end
 
