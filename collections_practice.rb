@@ -28,7 +28,7 @@ def sum_array(array)
 end
 
 def add_s(array)
-array.each_with_index.collect {|string, index| puts "#{i+1}. #{dwarf}"}
+array.each_with_index.collect {|string, index| puts "#{i+1}. #{string}"}
 end
 end
 
