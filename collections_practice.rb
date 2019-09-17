@@ -22,9 +22,7 @@ end
 def find_a(array)
   
 array.select do |string|
-  if string[0]=="a"
-    return string
-end
+  string[0]=="a"
 
 end
 
