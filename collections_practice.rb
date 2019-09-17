@@ -32,7 +32,7 @@ array.each_with_index.collect |string, index|
 if index !=1
 return "#{string}s"
 end
-array
+
 end
 
 def kesha_maker(array)
