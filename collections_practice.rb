@@ -20,9 +20,13 @@ def reverse_array(array)
 end
 
 def find_a(array)
-  
 array.select {|string| "a" == string[0]}
+end
 
+def sum_array(array)
+  
+  
+  
 end
 
 def kesha_maker(array)
