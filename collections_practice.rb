@@ -28,7 +28,8 @@ def sum_array(array)
 end
 
 def add_s(array)
-
+array.each_with_index.collect {|string, index| puts "#{i+1}. #{dwarf}"}
+end
 end
 
 def kesha_maker(array)
