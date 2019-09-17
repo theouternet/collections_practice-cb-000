@@ -29,8 +29,8 @@ end
 
 def add_s(array)
 array.each_with_index.collect |string, index| 
-if
-puts "#{i+1}. #{string}"}
+if index !=1
+puts "#{string}
 end
 end
 
