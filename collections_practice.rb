@@ -30,8 +30,9 @@ end
 def add_s(array)
 array.each_with_index.collect |string, index| 
 if index !=1
-puts "#{string}
+puts "#{string}s"
 end
+array
 end
 
 def kesha_maker(array)
