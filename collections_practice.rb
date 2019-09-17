@@ -23,7 +23,9 @@ def find_a(array)
   
 array.select do |string|
   if string[0]="a"
+    return string
 end
+
 end
 
 def kesha_maker(array)
