@@ -21,7 +21,8 @@ end
 
 def find_a(array)
   
-
+array.select do |string|
+  string="a"
 
 end
 
