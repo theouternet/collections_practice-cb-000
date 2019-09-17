@@ -28,11 +28,7 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.each do |string|
-    if array[!=1]
-    string + "s"
-end
-array
+
 end
 
 def kesha_maker(array)
